@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/coluzziandrea/liberty-beats/src/assets/image/logo.webp" width="250" alt="LibertyBeats logo">
+<img src="https://cdn.jsdelivr.net/gh/c01ux/liberty-beats/src/assets/image/logo.webp" width="250" alt="LibertyBeats logo">
 
 # Liberty Beats
 
@@ -8,7 +8,6 @@ The Digital Audio Workstation you were waiting for.
 
 [![Shield: Contributions Welcome](https://img.shields.io/badge/contributions-welcome-blue)](#Contributing)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Twitter](https://img.shields.io/twitter/follow/andreacoluzzi94?style=flat&label=andreacoluzzi94&logo=twitter&color=0bf&logoColor=fff)](https://twitter.com/andreacoluzzi94)
 
 <p align="center">
   <a href="#-about"><strong>About</strong></a> ·
@@ -79,11 +78,11 @@ Here you can find the demo link:
 ## 📸 Screenshots
 
 **Studio**
-![Screenshot of Studio](https://cdn.jsdelivr.net/gh/coluzziandrea/liberty-beats/docs/images/screen_light.png)
+![Screenshot of Studio](https://cdn.jsdelivr.net/gh/c01ux/liberty-beats/docs/images/screen_light.png)
 <br/>
 
 **Dark Mode Supported!**
-![Screenshot of Dark Mode Supported](https://cdn.jsdelivr.net/gh/coluzziandrea/liberty-beats/docs/images/drums_dark.png)
+![Screenshot of Dark Mode Supported](https://cdn.jsdelivr.net/gh/c01ux/liberty-beats/docs/images/drums_dark.png)
 <br/>
 
 <br/>
@@ -93,7 +92,7 @@ Here you can find the demo link:
 - Clone the project
 
 ```bash
-  git clone https://github.com/coluzziandrea/liberty-beats
+  git clone https://github.com/c01ux/liberty-beats
 ```
 
 - Go to the project directory
@@ -124,4 +123,4 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ## 📝 License
 
-[MIT](https://github.com/coluzziandrea/liberty-beats/blob/main/LICENSE)
+[MIT](https://github.com/c01ux/liberty-beats/blob/main/LICENSE)
